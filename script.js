@@ -129,7 +129,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: '7. Apa yang paling ditakuti di Ruangan Rumah Sakit ?',
+        question: '7. Apa yang paling ditakuti Orang di Rumah Sakit ?',
         a: "Kamar Mayat",
         b: "Ruang Gawat Darurat",
         c: "Ruang Operasi",
