@@ -43,6 +43,7 @@ body {
     font-size: .9rem;
     font-family: "Source San Pro", sans-serif;
     color: rgba(175, 46, 206, 0.63);
+    text-transform: uppercase;
 }
 
 .container-quiz {
@@ -105,7 +106,7 @@ h2 {
 .quiz-header li label {
     cursor: pointer;  
     font-weight: 700;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }
 .quiz-header li:hover label {
     color: #7089db88;
@@ -114,11 +115,7 @@ h2 {
   margin-right: 1rem;
  
 }
-.quiz-header li input:radio{
-    border: none;
-    outline: none; 
-    color: #41dfff;  
-}
+
 button {
     width: 100%;
     border: none;
@@ -141,7 +138,7 @@ button:hover {
     justify-content: space-evenly;
     align-items: center;
     background: #60c9e957;
-    height: 85px;
+    padding: 1.6rem 0;
 }
 .footer-flex small {
     font-family: 'Nunito Sans', sans-serif;
@@ -151,7 +148,7 @@ button:hover {
 
 @media screen and (max-width: 616px){
     html{
-        font-size: 95%;
+        font-size: 75%;
     }
     .quiz-container {
         margin: 2rem;
