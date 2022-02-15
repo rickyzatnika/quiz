@@ -42,6 +42,7 @@ body {
     letter-spacing: .5rem;
     font-size: .9rem;
     font-family: "Source San Pro", sans-serif;
+    color: rgba(191, 31, 231, 0.63);
 }
 
 .container-quiz {
