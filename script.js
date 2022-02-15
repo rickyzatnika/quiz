@@ -142,7 +142,7 @@ const quizData = [
         b: "2 apel",
         c: "3 apel",
         d: "4 apel",
-        correct: "2",
+        correct: "b",
     },
     {
         question: '9. Ada 12 Ikan di kolam, Jika setengahnya tenggelam berapa banyak  yang tersisa ?',
